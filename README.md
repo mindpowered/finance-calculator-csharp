@@ -39,7 +39,7 @@ Third-party dependencies may have additional requirements.
 Add the following entry to your .csproj file:
 
 ```
-<PackageReference Include="mindpowered.financecalculator" Version="0.0.1" />
+<PackageReference Include="mindpowered.financecalculator" Version="0.0.2" />
 ```
 
 
