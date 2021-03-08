@@ -1,0 +1,14 @@
+/nologo
+/optimize+
+/debug-
+/unsafe-
+/warn:0
+/out:c:/builds/mindpowered/logic/finance-calculator/build/vcs/csharp/bin/financecalculator.dll
+/target:library
+/reference:c:/builds/mindpowered/logic/finance-calculator/build/vcs/csharp/bin/maglev.dll
+src\EnumValue.cs
+src\Type.cs
+src\financecalculator\FinanceCalculator.cs
+src\financecalculator\FinCalc.cs
+src\UInt.cs
+src\mindpowered\financecalculator\FinanceCalculator.cs
